@@ -1,63 +1,59 @@
-[SourceHanSansPlusHW-Regular]
-	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+ HW
+[SourceHanSansHW-Regular]
+	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW
 	s=3,1,0x411,Regular
-	l=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+ HW Regular
-	f=Source Han Sans+ HW
+	f=Source Han Sans HW
 	s=Regular
-	l=Source Han Sans+ HW Regular
 
-[SourceHanSansPlusHW-Bold]
-	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+ HW
+[SourceHanSansHW-Bold]
+	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW
 	s=3,1,0x411,Bold
-	l=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+ HW Bold
-	f=Source Han Sans+ HW
+	f=Source Han Sans HW
 	s=Bold
-	l=Source Han Sans+ HW Bold
 
-[SourceHanSansPlusHWK-Regular]
-	f=3,1,0x412,\BCF8\ACE0\B515+ HW
+[SourceHanSansHWK-Regular]
+	f=3,1,0x412,\BCF8\ACE0\B515 HW
 	s=3,1,0x412,Regular
-	l=3,1,0x412,\BCF8\ACE0\B515+ HW Regular
-	f=Source Han Sans+ HW K
+	f=Source Han Sans HW K
 	s=Regular
-	l=Source Han Sans+ HW K Regular
 
-[SourceHanSansPlusHWK-Bold]
-	f=3,1,0x412,\BCF8\ACE0\B515+ HW
+[SourceHanSansHWK-Bold]
+	f=3,1,0x412,\BCF8\ACE0\B515 HW
 	s=3,1,0x412,Bold
-	l=3,1,0x412,\BCF8\ACE0\B515+ HW Bold
-	f=Source Han Sans+ HW K
+	f=Source Han Sans HW K
 	s=Bold
-	l=Source Han Sans+ HW K Bold
 
-[SourceHanSansPlusHWSC-Regular]
-	f=3,1,0x804,\601D\6E90\9ED1\4F53+ HW
+[SourceHanSansHWSC-Regular]
+	f=3,1,0x804,\601D\6E90\9ED1\4F53 HW
 	s=3,1,0x804,Regular
-	l=3,1,0x804,\601D\6E90\9ED1\4F53+ HW Regular
-	f=Source Han Sans+ HW SC
+	f=Source Han Sans HW SC
 	s=Regular
-	l=Source Han Sans+ HW SC Regular
 
-[SourceHanSansPlusHWSC-Bold]
-	f=3,1,0x804,\601D\6E90\9ED1\4F53+ HW
+[SourceHanSansHWSC-Bold]
+	f=3,1,0x804,\601D\6E90\9ED1\4F53 HW
 	s=3,1,0x804,Bold
-	l=3,1,0x804,\601D\6E90\9ED1\4F53+ HW Bold
-	f=Source Han Sans+ HW SC
+	f=Source Han Sans HW SC
 	s=Bold
-	l=Source Han Sans+ HW SC Bold
 
-[SourceHanSansPlusHWTC-Regular]
-	f=3,1,0x404,\601D\6E90\9ED1\9AD4+ HW
+[SourceHanSansHWTC-Regular]
+	f=3,1,0x404,\601D\6E90\9ED1\9AD4 HW
 	s=3,1,0x404,Regular
-	l=3,1,0x404,\601D\6E90\9ED1\9AD4+ HW Regular
-	f=Source Han Sans+ HW TC
+	f=Source Han Sans HW TC
 	s=Regular
-	l=Source Han Sans+ HW TC Regular
 
-[SourceHanSansPlusHWTC-Bold]
-	f=3,1,0x404,\601D\6E90\9ED1\9AD4+ HW
+[SourceHanSansHWTC-Bold]
+	f=3,1,0x404,\601D\6E90\9ED1\9AD4 HW
 	s=3,1,0x404,Bold
-	l=3,1,0x404,\601D\6E90\9ED1\9AD4+ HW Bold
-	f=Source Han Sans+ HW TC
+	f=Source Han Sans HW TC
 	s=Bold
-	l=Source Han Sans+ HW TC Bold
+
+[SourceHanSansHWHC-Regular]
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F HW
+	s=3,1,0xC04,Regular
+	f=Source Han Sans HW HC
+	s=Regular
+
+[SourceHanSansHWHC-Bold]
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F HW
+	s=3,1,0xC04,Bold
+	f=Source Han Sans HW HC
+	s=Bold
