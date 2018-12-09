@@ -313,7 +313,7 @@ table OS/2 {
   TypoLineGap 0;
   XHeight 543;
   CapHeight 733;
-  WeightClass 300;
+  WeightClass 250;
   WidthClass 5;
   Panose 2 11 3 0 0 0 0 0 0 0;
   FSType 0;
@@ -30144,7 +30144,7 @@ feature kern {
   position \1636 \1506 -20;
 
   # Created: Fri Jun  6 04:35:16 2014
-  # PS Name: SourceSansPro-Light
+  # PS Name: SourceSansPro-ExtraLight
   # MM Inst: 153 : SourceSansPro_0.ufo / SourceSansPro_1.ufo
   # MinKern: +/- 3 inclusive
   # exported from noApp
