@@ -25,8 +25,10 @@
 [SourceHanSansPlus-Regular]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+
 	s=3,1,0x411,Regular
+	l=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+
 	f=Source Han Sans+
 	s=Regular
+	l=Source Han Sans+
 
 [SourceHanSansPlus-Medium]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+
@@ -39,9 +41,11 @@
 [SourceHanSansPlus-Bold]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+
 	s=3,1,0x411,Bold
+	l=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+
 	f=Source Han Sans+
 	s=Bold
-
+	l=Source Han Sans+
+	
 [SourceHanSansPlus-Heavy]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF+
 	s=3,1,0x411,Heavy
@@ -77,8 +81,10 @@
 [SourceHanSansPlusK-Regular]
 	f=3,1,0x412,\BCF8\ACE0\B515+
 	s=3,1,0x412,Regular
+	l=3,1,0x412,\BCF8\ACE0\B515
 	f=Source Han Sans+ K
 	s=Regular
+	l=Source Han Sans+ K
 
 [SourceHanSansPlusK-Medium]
 	f=3,1,0x412,\BCF8\ACE0\B515+
@@ -91,8 +97,10 @@
 [SourceHanSansPlusK-Bold]
 	f=3,1,0x412,\BCF8\ACE0\B515+
 	s=3,1,0x412,Bold
+	l=3,1,0x412,\BCF8\ACE0\B515+
 	f=Source Han Sans+ K
 	s=Bold
+	l=Source Han Sans+ K
 
 [SourceHanSansPlusK-Heavy]
 	f=3,1,0x412,\BCF8\ACE0\B515+
@@ -129,8 +137,10 @@
 [SourceHanSansPlusSC-Regular]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53+
 	s=3,1,0x804,Regular
+	l=3,1,0x804,\601D\6E90\9ED1\4F53+
 	f=Source Han Sans+ SC
 	s=Regular
+	l=Source Han Sans+ SC
 
 [SourceHanSansPlusSC-Medium]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53+
@@ -143,8 +153,10 @@
 [SourceHanSansPlusSC-Bold]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53+
 	s=3,1,0x804,Bold
+	l=3,1,0x804,\601D\6E90\9ED1\4F53+
 	f=Source Han Sans+ SC
 	s=Bold
+	l=Source Han Sans+ SC
 
 [SourceHanSansPlusSC-Heavy]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53+
@@ -181,8 +193,10 @@
 [SourceHanSansPlusTC-Regular]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4+
 	s=3,1,0x404,Regular
+	l=3,1,0x404,\601D\6E90\9ED1\9AD4+
 	f=Source Han Sans+ TC
 	s=Regular
+	l=Source Han Sans+ TC
 
 [SourceHanSansPlusTC-Medium]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4+
@@ -195,8 +209,10 @@
 [SourceHanSansPlusTC-Bold]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4+
 	s=3,1,0x404,Bold
+	l=3,1,0x404,\601D\6E90\9ED1\9AD4+
 	f=Source Han Sans+ TC
 	s=Bold
+	l=Source Han Sans+ TC
 
 [SourceHanSansPlusTC-Heavy]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4+
@@ -233,8 +249,10 @@
 [SourceHanSansPlusHC-Regular]
 	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F+
 	s=3,1,0xC04,Regular
+	l=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F+
 	f=Source Han Sans+ HC
 	s=Regular
+	l=Source Han Sans+ HC
 
 [SourceHanSansPlusHC-Medium]
 	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F+
@@ -247,9 +265,11 @@
 [SourceHanSansPlusHC-Bold]
 	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F+
 	s=3,1,0xC04,Bold
+	l=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F+
 	f=Source Han Sans+ HC
 	s=Bold
-
+	l=Source Han Sans+ HC
+	
 [SourceHanSansPlusHC-Heavy]
 	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 \9999\6E2F+
 	s=3,1,0xC04,Heavy
