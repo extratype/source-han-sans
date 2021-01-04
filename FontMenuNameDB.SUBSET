@@ -223,31 +223,31 @@
 	l=Source Han Sans+ TW Heavy
 
 [SourceHanSansPlusHK-ExtraLight]
-	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	s=3,1,0xC04,ExtraLight
-	l=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK ExtraLight
+	l=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK ExtraLight
 	f=Source Han Sans+ HK
 	s=ExtraLight
 	l=Source Han Sans+ HK ExtraLight
 
 [SourceHanSansPlusHK-Light]
-	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	s=3,1,0xC04,Light
-	l=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK Light
+	l=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK Light
 	f=Source Han Sans+ HK
 	s=Light
 	l=Source Han Sans+ HK Light
 
 [SourceHanSansPlusHK-Normal]
-	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	s=3,1,0xC04,Normal
-	l=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK Normal
+	l=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK Normal
 	f=Source Han Sans+ HK
 	s=Normal
 	l=Source Han Sans+ HK Normal
 
 [SourceHanSansPlusHK-Regular]
-	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	s=3,1,0xC04,Regular
 	l=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	f=Source Han Sans+ HK
@@ -255,15 +255,15 @@
 	l=Source Han Sans+ HK
 
 [SourceHanSansPlusHK-Medium]
-	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	s=3,1,0xC04,Medium
-	l=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK Medium
+	l=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK Medium
 	f=Source Han Sans+ HK
 	s=Medium
 	l=Source Han Sans+ HK Medium
 
 [SourceHanSansPlusHK-Bold]
-	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	s=3,1,0xC04,Bold
 	l=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	f=Source Han Sans+ HK
@@ -271,9 +271,9 @@
 	l=Source Han Sans+ HK
 
 [SourceHanSansPlusHK-Heavy]
-	f=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK
+	f=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK
 	s=3,1,0xC04,Heavy
-	l=3,1,0xC04,\601D\6E90\9ED1\9AD4 HK Heavy
+	l=3,1,0xC04,\601D\6E90\9ED1\9AD4+ HK Heavy
 	f=Source Han Sans+ HK
 	s=Heavy
 	l=Source Han Sans+ HK Heavy
